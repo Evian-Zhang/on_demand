@@ -1,8 +1,11 @@
 # on_demand
 
+[![Rust](https://github.com/Evian-Zhang/on_demand/actions/workflows/rust.yml/badge.svg)](https://github.com/Evian-Zhang/on_demand/actions/workflows/rust.yml)
+
 This Rust crate provides a macro to generate aux macros for on-demand usage.
 
 ```toml
+[dependencies]
 on_demand = "0.1"
 ```
 
