@@ -9,7 +9,7 @@ homepage = "https://crates.io/crates/on_demand"
 documentation = "https://docs.rs/on_demand"
 repository = "https://github.com/Evian-Zhang/on_demand"
 readme = "README.md"
-keywords = ["on-demand", "lazy evaluation", "lazy"]
+keywords = ["on-demand", "lazy-evaluation", "lazy"]
 categories = ["rust-patterns"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
