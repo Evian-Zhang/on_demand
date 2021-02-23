@@ -1,0 +1,18 @@
+[package]
+name = "on_demand"
+version = "0.1.0"
+authors = ["Evian-Zhang <evianzhang1999@163.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A macro to generate aux macros for on-demand usage."
+homepage = "https://crates.io/crates/on_demand"
+documentation = "https://docs.rs/on_demand"
+repository = "https://github.com/Evian-Zhang/on_demand"
+readme = "README.md"
+keywords = ["on demand", "lazy evaluation", "lazy"]
+categories = ["rust-patterns"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+paste = "1.0"
